@@ -12,7 +12,3 @@ How to set up your own ExperienceSampler Download Pag
 7. Follow Step 3 as described.
 8. Follow Step 4 as described.
 9. Upload stylesheet to repository
-
-OR
-
-Fork this repository and do Step 4.
